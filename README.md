@@ -1,4 +1,4 @@
-# CV_Lifecourse
+# CV Lifecourse
 
 Analytical code for the lifetime risk and life years lost analyses in:
 
