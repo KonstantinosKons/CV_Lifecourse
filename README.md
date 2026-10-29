@@ -124,9 +124,6 @@ MI_lyl <- calculate_LYL(
 2. **LYL in the general population** is derived from Swedish life tables (remaining life expectancy by sex, age and calendar year), weighted by the cases' distributions of calendar year and age at diagnosis.
 3. **Excess LYL** = LYL among cases − LYL in the general population.
 
-
----
-
 ---
 
 ## Citation
